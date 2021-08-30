@@ -33,5 +33,8 @@ button["fg"] = "black"
 output_box = Message(text = 0)
 output_box.place(x = 150, y = 45, width = 150, height = 25)
 output_box ["relief"] = "ridge"
+output_box = Message(text = 0)
+output_box.place(x = 150, y = 45, width = 150, height = 25)
+output_box ["relief"] = "ridge"
 
 window.mainloop()
